@@ -5,6 +5,6 @@
 # Install instructions
 Get the [latest release source code](https://github.com/relld/sharp/releases) or clone this repo and extract it.
 > Chrome
-  > On your computer, open Chrome
-  > At the top right, click More More and then Settings
-  > 
+- On your computer, open Chrome
+- At the top right, click More More and then Settings
+
