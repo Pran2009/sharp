@@ -1,2 +1,4 @@
 # sh#rp
-> sh#rp - A oversimplified startpage for your browser
+sh#rp - A oversimplified startpage for your browser
+
+# Install instructions
