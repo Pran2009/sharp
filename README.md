@@ -3,7 +3,7 @@
 <p align="center">A oversimplified startpage for your browser</p>
 
 # Install instructions
-Get the [latest release source code](https://github.com/relld/sharp/releases) or clone this repo and extract it.
+Get the source code or clone this repo and extract it.
 Set your custom links in index.html
 > Chrome
 - On your computer, open Chrome
