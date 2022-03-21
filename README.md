@@ -1,5 +1,5 @@
 # sh#rp
-![](https://imgur.com/60b2b19f-4cb4-4129-a101-103a68062d03)
+![](https://imgur.com/a/MxhVD4d)
 sh#rp - A oversimplified startpage for your browser
 
 # Install instructions
