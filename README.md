@@ -3,8 +3,8 @@
 <p align="center">oversimplified startpage for your browser</p>
 
 # TODO
+- [ ] New features
 - [ ] Add settings
-- [ ] Add search bar
 
 # Install instructions
 Get the source code or clone this repo and extract it.
