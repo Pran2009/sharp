@@ -6,8 +6,12 @@ sh#rp - oversimplified startpage for your browser that you can run locally or on
 
 
 # Install instructions
-Get the source code or clone this repo and extract it.<br>
-Set your custom links in index.html<br>
+> Locally
+Get the source code or clone this repo and extract it<br>
+Set your custom links in index.html
+> Github pages
+Just use [this link](https://relld.github.io/sharp/)
+
 > Chrome
 - On your computer, open Chrome
 - At the top right, click More More and then Settings
