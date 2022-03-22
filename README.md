@@ -4,7 +4,7 @@
 
 # TODO
 - [ ] New features
-- [ ] Add settings
+-- - [ ] Add settings --
 
 # Install instructions
 Get the source code or clone this repo and extract it.
