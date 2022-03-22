@@ -1,9 +1,8 @@
 # sh#rp
-![sharp](https://user-images.githubusercontent.com/101978017/159263455-a7d638bd-ebcd-4721-9b47-495cb673f281.png)
+![preview](https://user-images.githubusercontent.com/101978017/159492813-d097c6b6-5b5f-4b2b-a275-36004d41a96d.png)
 
 # About
 sh#rp - oversimplified startpage for your browser that you can run locally or on your webserver
-
 
 # Get sh#rp
 > Locally
