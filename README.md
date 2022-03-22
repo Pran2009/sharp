@@ -1,10 +1,9 @@
 # sh#rp
 ![sharp](https://user-images.githubusercontent.com/101978017/159263455-a7d638bd-ebcd-4721-9b47-495cb673f281.png)
-<p align="center">oversimplified startpage for your browser</p>
 
-# TODO
-- [ ] New features
--- - [ ] Add settings --
+#About
+sh#rp - oversimplified startpage for your browser that you can run locally or on your webserver
+
 
 # Install instructions
 Get the source code or clone this repo and extract it.
